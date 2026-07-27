@@ -1,2 +1,17 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# ─── Flutter web build output ──────────────────────────────────────────────
+# Everything below is produced by `flutter build web`; none of it is
+# hand-written. Marked so GitHub Linguist stops reporting this repo -- and the
+# owner's profile-wide language stats -- as JavaScript/HTML.
+main.dart.js               linguist-generated=true
+flutter.js                 linguist-generated=true
+flutter_bootstrap.js       linguist-generated=true
+flutter_service_worker.js  linguist-generated=true
+index.html                 linguist-generated=true
+manifest.json              linguist-generated=true
+version.json               linguist-generated=true
+canvaskit/**               linguist-vendored=true
+assets/**                  linguist-vendored=true
+icons/**                   linguist-vendored=true
